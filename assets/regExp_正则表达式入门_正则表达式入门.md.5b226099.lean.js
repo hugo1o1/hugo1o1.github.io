@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.50d83a16.js";const l='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"regExp/\u6B63\u5219\u8868\u8FBE\u5F0F\u5165\u95E8/\u6B63\u5219\u8868\u8FBE\u5F0F\u5165\u95E8.md","lastUpdated":null}',r={};function _(o,s,c,n,p,d){return a(),t("div")}var f=e(r,[["render",_]]);export{l as __pageData,f as default};
