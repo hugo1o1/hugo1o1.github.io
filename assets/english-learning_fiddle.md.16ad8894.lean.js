@@ -1,0 +1,6 @@
+import{_ as e,c as o,o as n,b as t}from"./app.4986d712.js";const b='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"english-learning/fiddle.md","lastUpdated":1645364717000}',a={},s=t("pre",null,[t("code",null,`Thank you for taking the time to meet with our team about the [role title] role at [company name]. It was a pleasure to learn more about your skills and accomplishments.
+
+Unfortunately, our team did not select you for further consideration.
+
+I would like to note that competition for jobs at [company name] is always strong and that we often have to make difficult choices between many high-caliber candidates.
+`)],-1),i=t("blockquote",null,[t("p",null,"one of my favorite parts of working at microsoft is our focus on growth of mindset and the encouragement to never stop learning")],-1),l=t("blockquote",null,[t("p",null,"STAR method: situation,task,action, results")],-1),r=t("blockquote",null,[t("p",null,"One thing you need to know is that your interviewer don't want to trip you up and stump you or make you feel bad")],-1),c=t("blockquote",null,[t("p",null,"pics or it didn't happen")],-1),u=[s,i,l,r,c];function d(p,h,m,f,_,k){return n(),o("div",null,u)}var g=e(a,[["render",d]]);export{b as __pageData,g as default};

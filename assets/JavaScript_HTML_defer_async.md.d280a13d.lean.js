@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as t,a as n}from"./app.50d83a16.js";const g='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/HTML/defer_async.md","lastUpdated":null}',o={},p=n("",2),e=[p];function r(c,l,_,i,k,d){return t(),a("div",null,e)}var f=s(o,[["render",r]]);export{g as __pageData,f as default};
