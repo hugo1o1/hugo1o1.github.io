@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.a9d936e5.js";const _='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"self-reflecting/dailynote.md","lastUpdated":1646059216000}',r={};function o(n,s,c,d,i,l){return a(),t("div")}var f=e(r,[["render",o]]);export{_ as __pageData,f as default};
