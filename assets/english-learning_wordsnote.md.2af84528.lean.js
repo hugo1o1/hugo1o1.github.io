@@ -1,1 +1,0 @@
-import{_ as e,c as i,o as t,a as o}from"./app.9fcaac0e.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"english-learning/wordsnote.md","lastUpdated":1646059216000}',n={},l=o("",8),r=[l];function a(s,c,d,p,u,_){return t(),i("div",null,r)}var g=e(n,[["render",a]]);export{m as __pageData,g as default};
