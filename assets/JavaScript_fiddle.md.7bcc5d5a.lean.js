@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,a as t}from"./app.61688f0c.js";const m='{"title":"fiddle","description":"","frontmatter":{},"headers":[{"level":3,"title":"fiddle","slug":"fiddle"}],"relativePath":"JavaScript/fiddle.md","lastUpdated":1646059216000}',n={},s=t("",6),o=[s];function i(d,l,p,c,h,f){return r(),a("div",null,o)}var u=e(n,[["render",i]]);export{m as __pageData,u as default};
