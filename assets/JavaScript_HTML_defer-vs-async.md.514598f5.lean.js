@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as t,a as n}from"./app.ccae25dd.js";const g='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/HTML/defer-vs-async.md","lastUpdated":1646059216000}',o={},p=n("",2),e=[p];function r(c,l,i,_,k,d){return t(),a("div",null,e)}var f=s(o,[["render",r]]);export{g as __pageData,f as default};
