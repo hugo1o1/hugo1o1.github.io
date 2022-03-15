@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as p}from"./app.7fb63bc3.js";const i='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"self-reflecting/dailynote.md","lastUpdated":1646059216000}',c={},l=p("",7),_=[l];function a(s,r,n,u,b,k){return t(),o("div",null,_)}var q=e(c,[["render",a]]);export{i as __pageData,q as default};
