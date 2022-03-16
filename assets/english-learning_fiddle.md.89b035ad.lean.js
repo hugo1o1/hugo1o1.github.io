@@ -1,1 +1,0 @@
-import{_ as t,c as o,o as e,a}from"./app.2f175e61.js";const k='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"english-learning/fiddle.md","lastUpdated":1646059216000}',n={},r=a("",7),i=[r];function c(s,l,u,p,d,m){return e(),o("div",null,i)}var f=t(n,[["render",c]]);export{k as __pageData,f as default};
